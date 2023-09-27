@@ -32,11 +32,13 @@
 .button {
     color: #ffffff;
     background-color: orange;
+    padding: 10px;
 }
 
 .para {
     color: #ffffff;
     font-family: Roboto;
+    text-align:center;
 }
 
 .main-heading {
