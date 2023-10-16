@@ -1,2 +1,3 @@
 # DEVOPS
-It is Devops Lab
+It is my first Git Repository.
+Author-Varshini Seepana
